@@ -1,2 +1,2 @@
 # Blinky-Lite Instrumentation
-An Instrumnentation suite for Blinky-Lite
+An instrumentation suite for Blinky-Lite
