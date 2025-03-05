@@ -2,7 +2,7 @@
 ## A modular approach to distrubuted instrumentation
 
 <div class="row t30">
-    <img src="{{ site.urlimg }}/2024-09-26/BLInstSuite.jpg" >
+    <img src="BLInstSuite.jpg" >
 </div>
 
 For instrumentation to be useful, it needs to be easily and quickly installed wherever a user needs it to be. Blinky-Lite accomplishes this with a suite of wireless instrumentation modules based on the Raspberry Pi Pico-W, including:
