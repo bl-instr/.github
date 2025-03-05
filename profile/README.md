@@ -1,4 +1,6 @@
-# Blinky-Lite Instrumentation
+# Blinky-Lite Instrumentation Suite
+## A modular approach to distrubuted instrumentation
+
 <div class="row t30">
     <img src="{{ site.urlimg }}/2024-09-26/BLInstSuite.jpg" >
 </div>
