@@ -24,16 +24,16 @@ Individual Cubes provide specialised interfaces for RF power, analog voltage, 4�
 
 ### Instrumentation lineup
 
-| Instrument | Primary function |
-|------------|------------------|
-| RF Power Meter Cube | RF power measurement and alarm reporting. |
-| Blinky ADC Cube | Two-channel 0–10 V analog acquisition with configurable digital filtering and engineering-unit scaling. |
-| 4–20 mA Cube | Two-channel industrial current-loop acquisition with 24 V field-device supply connections. |
-| Interlock Cube | Three-channel configurable monitoring of switch closures and digital interlock states. |
-| Leak Cube | Two-channel resistive water-leak detection and detector-integrity monitoring. |
-| Thermocouple Cube | Three-channel K-type thermocouple temperature measurement. |
-| DS18B20 Cube | Three-channel rugged digital temperature measurement using DS18B20 sensors. |
-| MAX31865 Cube | Two-channel precision four-terminal resistance thermometry, including cryogenic applications. |
+|            | Instrument | Primary function |
+|------------|------------|------------------|
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | RF Power Meter Cube | RF power measurement and alarm reporting. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | Blinky ADC Cube | Two-channel 0–10 V analog acquisition with configurable digital filtering and engineering-unit scaling. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | 4–20 mA Cube | Two-channel industrial current-loop acquisition with 24 V field-device supply connections. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | Interlock Cube | Three-channel configurable monitoring of switch closures and digital interlock states. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | Leak Cube | Two-channel resistive water-leak detection and detector-integrity monitoring. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | Thermocouple Cube | Three-channel K-type thermocouple temperature measurement. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | DS18B20 Cube | Three-channel rugged digital temperature measurement using DS18B20 sensors. |
+|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | MAX31865 Cube | Two-channel precision four-terminal resistance thermometry, including cryogenic applications. |
 
 ## Integration model
 
