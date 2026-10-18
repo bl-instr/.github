@@ -26,7 +26,7 @@ Individual Cubes provide specialised interfaces for RF power, analog voltage, 4�
 
 |            | Instrument | Primary function |
 |------------|------------|------------------|
-|<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | RF Power Meter Cube | RF power measurement and alarm reporting. |
+|<img src="rfpowerMeter.png" alt="rfpowerMeter-cube" width="180"/> | [RF Power Meter Cube](https://github.com/bl-instr/rf-power-meter-cube) | RF power measurement and alarm reporting. |
 |<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | Blinky ADC Cube | Two-channel 0–10 V analog acquisition with configurable digital filtering and engineering-unit scaling. |
 |<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | 4–20 mA Cube | Two-channel industrial current-loop acquisition with 24 V field-device supply connections. |
 |<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> | Interlock Cube | Three-channel configurable monitoring of switch closures and digital interlock states. |
