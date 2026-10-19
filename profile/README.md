@@ -27,7 +27,7 @@ Individual Cubes provide specialised interfaces for RF power, analog voltage, 4�
 | Enclosure | PCB | Instrument | Primary function |
 |-----------|-----|------------|------------------|
 |<img src="rfpowerMeter.png" alt="rfpowerMeter-cube" width="180"/> |<img src="rfpowerMeterPCB.png" alt="rfpowerMeterPCB" width="180"/>| [RF Power Meter Cube](https://github.com/bl-instr/rf-power-meter-cube) | RF power measurement and alarm reporting. |
-|<img src="bl-adc-cube.png" alt="bl-adc-cube" width="180"/> ||<img src="adcPCB.png" alt="adcPCB" width="180"/>| [ADC Cube](https://github.com/bl-instr/adc-cube) | Two-channel 0–10 V analog acquisition with configurable digital filtering and engineering-unit scaling. |
+|<img src="bl-adc-cube.png" alt="bl-adc-cube" width="180"/> |<img src="adcPCB.png" alt="adcPCB" width="180"/>| [ADC Cube](https://github.com/bl-instr/adc-cube) | Two-channel 0–10 V analog acquisition with configurable digital filtering and engineering-unit scaling. |
 |<img src="420-cube.png" alt="420-cube" width="180"/> |<img src="420PCB.png" alt="420PCB" width="180"/>| [4–20 mA Cube](https://github.com/bl-instr/420-cube) | Two-channel industrial current-loop acquisition with 24 V field-device supply connections. |
 |<img src="interlock-cube.png" alt="interlock-cube" width="180"/> |<img src="interlockPCB.png" alt="interlockPCB" width="180"/>| [Interlock Cube](https://github.com/bl-instr/interlock-cube) | Three-channel configurable monitoring of switch closures and digital interlock states. |
 |<img src="leak-cube.png" alt="leak-cube" width="180"/> |<img src="leakPCB.png" alt="leakPCB" width="180"/>| [Leak Cube](https://github.com/bl-instr/leak-cube) | Two-channel resistive water-leak detection and detector-integrity monitoring. |
