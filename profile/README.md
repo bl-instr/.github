@@ -34,6 +34,7 @@ Individual Cubes provide specialised interfaces for RF power, analog voltage, 4â
 |<img src="thermocouple-cube.png" alt="thermocouple-cube" width="180"/> |<img src="thermocoupleTopPCB.png" alt="thermocoupleTopPCB" width="180"/>| [Thermocouple Cube](https://github.com/bl-instr/thermocouple-cube) | Three-channel K-type thermocouple temperature measurement. |
 |<img src="DS18B20-cube.png" alt="DS18B20-cube" width="180"/> |<img src="DS18B20PCB.png" alt="DS18B20PCB" width="180"/>| [DS18B20 Cube](https://github.com/bl-instr/DS18B20-cube) | Three-channel rugged digital temperature measurement using DS18B20 sensors. |
 |<img src="MAX31865-cube.png" alt="MAX31865-cube" width="180"/> |<img src="MAX31865PCB.png" alt="MAX31865PCB" width="180"/>| [MAX31865 Cube](https://github.com/bl-instr/MAX31865-cube) | Two-channel precision four-terminal resistance thermometry, including cryogenic applications. |
+|<img src="klockanar.gif" alt="klockanar" width="180"/> |  | [Klockanar Cube](https://github.com/bl-instr/klockanar-cube) | A configurable 48-LED light ring for engineers who want a fun, wireless Blinky-Lite project. |
 
 ## Integration model
 
