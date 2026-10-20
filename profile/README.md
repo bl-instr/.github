@@ -11,9 +11,10 @@ All Cubes share a common Raspberry Pi Pico W / RP2040 control platform, 2.4 GHz 
 Individual Cubes provide specialised interfaces for RF power, analog voltage, 4–20 mA process loops, resistance thermometry, thermocouples, digital temperature sensors, water-leak detection, and interlock-status monitoring. Blinky-Lite scales and presents device data in useful engineering units, while supporting recording, visualisation, notification, alarms, and machine-protection workflows.
 
 ### Features
+The following features provide a common, flexible foundation for integrating Cube devices into the Blinky-Lite control system platform.
 
-|            |              |
-|------------|--------------|
+| Feature | Description |
+|---------|-------------|
 | Distributed instrumentation | Deploy Cubes close to remote equipment, sensors, or interlock circuits. |
 | Common controller platform | Raspberry Pi Pico W / RP2040 hardware across the lineup. |
 | Wireless communication | 2.4 GHz Wi-Fi supports installations where wired data connections are inconvenient or impractical. |
