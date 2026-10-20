@@ -12,6 +12,7 @@ Individual Cubes provide specialised interfaces for RF power, analog voltage, 4â
 
 ### Features
 
+|------------|--------------|
 | Distributed instrumentation | Deploy Cubes close to remote equipment, sensors, or interlock circuits. |
 | Common controller platform | Raspberry Pi Pico W / RP2040 hardware across the lineup. |
 | Wireless communication | 2.4 GHz Wi-Fi supports installations where wired data connections are inconvenient or impractical. |
