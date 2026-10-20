@@ -1,6 +1,6 @@
 # Blinky-Lite Instrumentation
 
-**Designed for the Blinky-Lite control system platform: the Blinky-Lite Instrumentation lineup consists of compact, wireless measurement, monitoring, and interlock modules built to integrate with Blinky-Lite for distributed laboratory, industrial, and facility-control applications.**
+**Designed for the [Blinky-Lite control system platform](https://blinky-lite.org/): the Blinky-Lite Instrumentation lineup consists of compact, wireless measurement, monitoring, and interlock modules built to integrate with Blinky-Lite for distributed laboratory, industrial, and facility-control applications.**
 
 ## Overview
 
