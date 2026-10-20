@@ -12,15 +12,15 @@ Individual Cubes provide specialised interfaces for RF power, analog voltage, 4�
 
 ### Features
 
-- Distributed instrumentation: Deploy Cubes close to remote equipment, sensors, or interlock circuits.
-- Common controller platform: Raspberry Pi Pico W / RP2040 hardware across the lineup.
-- Wireless communication: 2.4 GHz Wi-Fi supports installations where wired data connections are inconvenient or impractical.
-- MQTT integration: Event-driven MQTT publish/subscribe communication connects each Cube to Blinky-Lite through an MQTT broker.
-- Central visibility: Blinky-Lite receives measurements, states, alarms, and faults for display, recording, notification, and control workflows.
-- Configurable operation: Device-specific settings—including scaling, filtering, thresholds, logic, calibration, and alarm behaviour—are configured through the Blinky-Lite ecosystem.
-- Field-ready connectivity: Many Cubes use 5 mm screw terminals for practical PLC-style sensor and power wiring; connector and supply arrangements are specified by product.
-- Open-source design: Firmware is released under the MIT License, enabling users to study, modify, and adapt the code. The open hardware design can likewise be customised for site-specific requirements.
-- Shared software foundation: Cube firmware uses the open-source Arduino-BlinkyPicoW library, also released under the MIT License.
+| Distributed instrumentation | Deploy Cubes close to remote equipment, sensors, or interlock circuits. |
+| Common controller platform | Raspberry Pi Pico W / RP2040 hardware across the lineup. |
+| Wireless communication | 2.4 GHz Wi-Fi supports installations where wired data connections are inconvenient or impractical. |
+| MQTT integration | Event-driven MQTT publish/subscribe communication connects each Cube to Blinky-Lite through an MQTT broker. |
+| Central visibility | Blinky-Lite receives measurements, states, alarms, and faults for display, recording, notification, and control workflows. |
+| Configurable operation | Device-specific settings—including scaling, filtering, thresholds, logic, calibration, and alarm behaviour—are configured through the Blinky-Lite ecosystem. |
+| Field-ready connectivity | Many Cubes use 5 mm screw terminals for practical PLC-style sensor and power wiring; connector and supply arrangements are specified by product. |
+| Open-source design | Firmware is released under the MIT License, enabling users to study, modify, and adapt the code. The open hardware design can likewise be customised for site-specific requirements. |
+| Shared software foundation | Cube firmware uses the open-source Arduino-BlinkyPicoW library, also released under the MIT License. |
 
 ### Instrumentation lineup
 
